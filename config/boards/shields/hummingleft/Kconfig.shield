@@ -1,0 +1,2 @@
+config SHIELD_HUMMINGLEFT
+    def_bool y

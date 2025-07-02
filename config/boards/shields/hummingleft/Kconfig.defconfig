@@ -1,0 +1,6 @@
+if SHIELD_HUMMINGLEFT
+
+config ZMK_KEYBOARD_NAME
+	default "hummingleft"
+
+endif
