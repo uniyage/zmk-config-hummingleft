@@ -11,7 +11,7 @@
                 &kp V   &kp L   &kp H   &kp K   &kp W
                 &kp S   &kp R   &kp N   &kp T   &kp B
                         &kp X   &kp M   &kp D   
-                                        &mo 1   &kp SPACE
+                                        &mo 1   &kp LSHFT
             >;
         };
 
