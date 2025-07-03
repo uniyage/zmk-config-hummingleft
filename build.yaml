@@ -18,10 +18,10 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
-board: [ "nice_nano" ]
-shield: [ "hummingleft", "hummingright" ]
+# board: [ "nice_nano" ]
+# shield: [ "hummingleft", "hummingright" ]
 include:
   - board: nice_nano
     shield: hummingleft
-  - board: nice_nano
-    shield: hummingright
+#   - board: nice_nano
+#     shield: hummingright

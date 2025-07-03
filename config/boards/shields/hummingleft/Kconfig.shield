@@ -3,5 +3,5 @@ config SHIELD_HUMMINGLEFT
     def_bool $(shields_list_contains,hummingleft)
 
 # No whitespace after the comma or in your part name!
-config SHIELD_HUMMINGRIGHT
-    def_bool $(shields_list_contains,hummingright)
+# config SHIELD_HUMMINGRIGHT
+#    def_bool $(shields_list_contains,hummingright)
