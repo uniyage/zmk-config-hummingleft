@@ -21,9 +21,5 @@
 include:
   - board: nice_nano
     shield: hummingleft
-    cmake-args: -DCONFIG_ZMK_SPLIT_ROLE_CENTRAL=y
-    artifact-name: hummingleft_firmware
   - board: nice_nano
     shield: hummingright
-    cmake-args: -DCONFIG_ZMK_SPLIT_ROLE_PERIPHERAL=y
-    artifact-name: hummingright_firmware
