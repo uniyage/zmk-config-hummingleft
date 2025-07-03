@@ -19,7 +19,8 @@
 #
 ---
 board: [ "nice_nano" ]
-include: [ "hummingleft", "hummingright" ]
+shield: [ "hummingleft", "hummingright" ]
+include:
   - board: nice_nano
     shield: hummingleft
   - board: nice_nano
